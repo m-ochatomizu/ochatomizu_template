@@ -569,6 +569,16 @@ footer{background: #000; color: #fff; text-align: center; padding: 10px 0;font-s
      z-index: 9999;
     }
     
+    .wrapperTopPage .wrapperGlid_blog article {
+    background: #fff;
+    position: relative;
+    min-height: 330px;
+    max-width: 300px;
+    width: 70vw;
+    margin: 0 10px 1vw;
+    border: 1px solid #ccc;
+    }
+    
     #wrapperAbout{padding: 4vw 7vw 12vw;}
     #wrapperPickup{padding: 16vw 7vw 17.5vw;}
     #wrapperWork,#wrapperBlog,#wrapperInfomation,#wrapperShop,#wrapperDonation{padding: 16vw 7vw 18vw;}
